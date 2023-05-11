@@ -18,7 +18,7 @@
 - Robot footprint is defined.
 
 ## Script for Goal Publishing
-- Created a C++ node for publishing the goals in sequential order (goal_publisher_node.cpp ) which are stored in vector of vector. 
+- Created a C++ node for publishing the goals in sequential order (goal_publisher_node.cpp ) which are stored in 2D vector. 
 - Will update to ros parameter so can send dynamically.
 
 ## Script for visualization markers RVIZ
